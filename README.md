@@ -11,7 +11,7 @@ Steps to configure:
 ```
 
 
-2.Import the below line inside the ```<body> ``` tag of client file followed by the above <div>.
+2.Import the below line inside the ```<body> ``` tag of client file followed by the above ```<div>```
 ```html
 <script type="text/javascript" src="widget.js"></script>
 ```
