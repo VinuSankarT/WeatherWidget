@@ -13,9 +13,13 @@
     transform: translate(-50%, -50%);
 }
 
+* {
+    box-sizing: border-box;
+}
+
 .forecast{
     display: inline-block;
-    padding: 8px;
+    padding: 5px;
     border-right: 2px dotted #eee;"
 }
 
@@ -40,7 +44,7 @@ div,span {
 }
 
 .current-temp{
-    font-size: 56px;
+    font-size: 50px;
 }
 
 .current-status{
